@@ -229,7 +229,7 @@ li a {
   background-color: #f4c133;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 720px) {
   .banner-content h1 {
     font-size: 3em;
   }
@@ -347,7 +347,7 @@ li a {
   line-height: 1.5;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 720px) {
   .planning-img {
     display: block;
     height: 50%;
@@ -448,7 +448,7 @@ li a {
   margin-top: 1rem;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 720px) {
   .business-container {
     display: block;
   }
@@ -485,7 +485,7 @@ footer {
   list-style: none;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 720px) {
   .footer-container {
     display: block;
   }
