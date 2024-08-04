@@ -163,6 +163,11 @@ li a {
 }
 
 @media screen and (max-width:650px) {
+  .about-container h1{
+    font-size: 2.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
   .info-container{
     display: block;
   }
@@ -229,7 +234,7 @@ li a {
   background-color: #f4c133;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 650px) {
   .banner-content h1 {
     font-size: 3em;
   }
@@ -250,6 +255,9 @@ li a {
     margin-bottom: 5px;
     padding: 3px;
     margin-top: 0;
+  }
+  .highlight{
+    padding: 1rem;
   }
   .main-highlight h2 {
     margin-top: 3px;
@@ -348,6 +356,9 @@ li a {
 }
 
 @media screen and (max-width: 720px) {
+  .planning{
+    padding: 2rem;
+  }
   .planning-img {
     display: block;
     height: 50%;
@@ -448,7 +459,13 @@ li a {
   margin-top: 1rem;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 650px) {
+  .review {
+    padding: 2rem 2rem;
+  }
+  .business-info {
+    padding: 2rem 2.5rem;
+  }
   .business-container {
     display: block;
   }
